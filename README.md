@@ -12,5 +12,7 @@ The task assesses how a Three-Way Attentive Network (TriAN) (Liang Wang. 2018. Y
 
 # How to run
 
+Download the two files from samples.zip and put them in the same folder as trian.py. Then, 
+
 ```sh
 $ CUDA_VISIBLE_DEVICES=0 python trian.py
